@@ -1,1 +1,0 @@
-This is a beautiful test text for a brand new commit to git.
